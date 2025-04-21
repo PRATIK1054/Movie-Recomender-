@@ -19,4 +19,4 @@ A content-based Movie Recommender System built using Machine Learning techniques
 - Streamlit / Flask (if applicable for UI)
 - Jupyter Notebook (for development & testing)
 
-## 📂 Project Structure
+
